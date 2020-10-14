@@ -19,12 +19,9 @@ Make your first Pull Request and earn a free tee from GitHub!
 - Clone your forked repository to your pc
 - Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` and `git checkout -b new-user`)
 - Add/Remove someting whatever you want
+- Add yourself in CONTRIBUTORS.md
 - Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
 - Create a pull request
 - Star this repository
 - Wait for Pull Request to merge
 - Celebrate - you've done your first pull request!!
-
-## Contributors
-
-[RealKelvinPerez](https://github.com/realkelvinperez)
